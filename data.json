@@ -1,0 +1,41 @@
+{
+    "basics":{
+      "name":"surya",
+      "phone":"8464032835",
+      "photo":"download.jpg",
+      "email":"surya@gmail.com",
+      "Address": "(s/o)prasad,kakinada,East Godavari,A.P."
+    },
+    "education" :[{
+      "course":"B.Tech(computer science and engineering)",
+      "institute":"CR Reddy Engineering college",
+    "data":["2015-2019","90%"]
+
+    },
+    {
+      "course":"Inter(MPC)",
+      "institute":"Sri Chaitanya Engineering college",
+      "data":["2013-2015","92%"]
+
+    },
+    {
+    "course":"SSC",
+    "institute":"Sun shine school",
+  "data":["2012-2013","92%"]
+}
+],
+      "skills":[
+        {
+        "name":"Languages",
+        "data":["C","JAVA","php"]
+      },
+      {
+      "name":"Web Technologies",
+      "data":["HTML","CSS","php"]
+    },
+    {
+    "name":"OS",
+    "data":["Windows","Linux","Unix"]
+  }
+    ]
+}
